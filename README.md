@@ -47,6 +47,7 @@ Here's a few things I've used fairly extensively:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-rubek-5096a5240/) 
 
+<!--
 # 📊GitHub Stats (public):
 ![](https://github-readme-stats.vercel.app/api?username=justinrubek&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=justinrubek&theme=radical&hide_border=false)<br/>
@@ -54,6 +55,6 @@ Here's a few things I've used fairly extensively:
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=justinrubek&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=justinrubek&icon=0&color=0)](https://visitcount.itsvg.in)
