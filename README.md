@@ -9,6 +9,7 @@
 - [reform](https://github.com/justinrubek/reform) A form building webapp. Dynamically build forms and inject them into existing HTML. Submissions are placed into a database as JSON allowing the form maker to work without database knowledge
 - [scheduler](https://github.com/justinrubek/scheduler) A tool to assist scheduling students to a helpdesk during their open hours only. Looks at Outlook calendars to determine availability.
 - [rubek.dev](https://github.com/justinrubek/rubek.dev) My personal website using [Astro](https://astro.build)
+- [calendar-scheduler](https://github.com/justinrubek/calendar-scheduler) Schedule meetings based on available times stored on a CalDav server
 - [templates](https://github.com/justinrubek/templates) A collection of project templates backed by nix. I use this to get quickly started on new projects
 - [inkmlrs](https://github.com/justinrubek/inkmlrs) An attempt to manage pen input, drawing it to the screen and saving it using InkML
 - [ksuid-pydantic](https://github.com/justinrubek/ksuid-pydantic) A Pydantic type for KSUIDs. Intended for (but not limited to) use in FastAPI applications that speak with DynamoDB
