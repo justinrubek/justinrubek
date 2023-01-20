@@ -14,6 +14,7 @@
 - [ksuid-pydantic](https://github.com/justinrubek/ksuid-pydantic) A Pydantic type for KSUIDs. Intended for (but not limited to) use in FastAPI applications that speak with DynamoDB
 - [2traffic](https://github.com/justinrubek/2traffic) A webapp that can help track event frequency. Used to track phone calls and foot traffic to a helpdesk to help determine what adjustments to make for worker scheduling
 - [scheduler](https://github.com/justinrubek/scheduler) A tool to assist scheduling students to a helpdesk during their open hours only. Looks at Outlook calendars to determine availability.
+- [annapurna](https://github.com/justinrubek/annapurna) WIP - A rust library that helps manage recipies and ingredients. This uses [ascent](https://github.com/s-arash/ascent) to enable logical programming practices. Currently functionality is limited, but it can be used to see what recipes can be made with in-stock ingredients.
 
 ---
 
