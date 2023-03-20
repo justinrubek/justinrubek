@@ -4,6 +4,7 @@
 
 - [nixos-configs](https://github.com/justinrubek/nixos-configs) Declarative personal infrastructure. Includes a number of machines, the configuration for a HashiCorp stack (Nomad, Consul, Vault), and the tools I need to manage all of it
 - [thoenix](https://github.com/justinrubek/thoenix) Tooling for organizing and working with Terraform configurations (and writing parts of them in nix when convenient)
+- [lockpad](https://github.com/justinrubek/lockpad) A authentication system, featuring JWTs and exposing a REST API and external login/registration pages
 - [bomper](https://github.com/justinrubek/bomper) Updates strings hardcoded in files, configurable on a per-repo basis. Intended for updating version strings when tagging releases
 - [cheesecalc](https://github.com/justinrubek/cheesecalc) Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate
 - [reform](https://github.com/justinrubek/reform) A form building webapp. Dynamically build forms and inject them into existing HTML. Submissions are placed into a database as JSON allowing the form maker to work without database knowledge
