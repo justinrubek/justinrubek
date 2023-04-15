@@ -6,10 +6,11 @@
 - [thoenix](https://github.com/justinrubek/thoenix) Tooling for organizing and working with Terraform configurations (and writing parts of them in nix when convenient)
 - [lockpad](https://github.com/justinrubek/lockpad) A authentication system, featuring JWTs and exposing a REST API and external login/registration pages
 - [bomper](https://github.com/justinrubek/bomper) Updates strings hardcoded in files, configurable on a per-repo basis. Intended for updating version strings when tagging releases
+- - [calendar-scheduler](https://github.com/justinrubek/calendar-scheduler) Schedule meetings based on available times stored on a CalDav server. This includes a CalDav library, client CLI, and an axum API for scheduling events according to available times
 - [cheesecalc](https://github.com/justinrubek/cheesecalc) Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate
 - [reform](https://github.com/justinrubek/reform) A form building webapp. Dynamically build forms and inject them into existing HTML. Submissions are placed into a database as JSON allowing the form maker to work without database knowledge
 - [rubek.dev](https://github.com/justinrubek/rubek.dev) My personal website using [Astro](https://astro.build)
-- [calendar-scheduler](https://github.com/justinrubek/calendar-scheduler) Schedule meetings based on available times stored on a CalDav server
+
 - [templates](https://github.com/justinrubek/templates) A collection of project templates backed by nix. I use this to get quickly started on new projects
 - [inkmlrs](https://github.com/justinrubek/inkmlrs) An attempt to manage pen input, drawing it to the screen and saving it using InkML
 - [ksuid-pydantic](https://github.com/justinrubek/ksuid-pydantic) A Pydantic type for KSUIDs. Intended for (but not limited to) use in FastAPI applications that speak with DynamoDB
