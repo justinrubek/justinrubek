@@ -7,7 +7,7 @@
 - [lockpad](https://github.com/justinrubek/lockpad) A authentication system, featuring JWTs and exposing a REST API and external login/registration pages
 - [bomper](https://github.com/justinrubek/bomper) Updates strings hardcoded in files, configurable on a per-repo basis. Intended for updating version strings when tagging releases
 - [calendar-scheduler](https://github.com/justinrubek/calendar-scheduler) Schedule meetings based on available times stored on a CalDav server. This includes a CalDav library, client CLI, and an axum API for scheduling events according to available times
-- [cheesecalc](https://github.com/justinrubek/cheesecalc) Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate. [See its webpage](https://justinrubek.github.io/cheesecalc/)
+- [cheesecalc](https://github.com/justinrubek/cheesecalc)  \[[web](https://justinrubek.github.io/cheesecalc)\] Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate. [See its webpage](https://justinrubek.github.io/cheesecalc/)
 - [reform](https://github.com/justinrubek/reform) A form building webapp. Dynamically build forms and inject them into existing HTML. Submissions are placed into a database as JSON allowing the form maker to work without database knowledge
 - [rubek.dev](https://github.com/justinrubek/rubek.dev) My personal website using [Astro](https://astro.build)
 
@@ -17,7 +17,7 @@
 - [2traffic](https://github.com/justinrubek/2traffic) A webapp that can help track event frequency. Used to track phone calls and foot traffic to a helpdesk to help determine what adjustments to make for worker scheduling
 - [scheduler](https://github.com/justinrubek/scheduler) A tool to assist scheduling students to a helpdesk during their open hours only. Looks at Outlook calendars to determine availability.
 - [annapurna](https://github.com/justinrubek/annapurna) WIP - A rust library that helps manage recipies and ingredients. This uses [ascent](https://github.com/s-arash/ascent) to enable logical programming practices. Currently functionality is limited, but it can be used to see what recipes can be made with in-stock ingredients.
-- [ayysee](https://github.com/justinrubek/ayysee) WIP - A custom programming language targetting [Stationeers](https://store.steampowered.com/app/544550/Stationeers/) IC10 processors. [webpage](https://justinrubek.github.io/ayysee/)
+- [ayysee](https://github.com/justinrubek/ayysee)  \[[web](https://justinrubek.github.io/ayysee/)\] WIP - A custom programming language targetting [Stationeers](https://store.steampowered.com/app/544550/Stationeers/) IC10 processors.
 ---
 
 I love to learn new technologies that make my life easier, and focus hard on optimizing development efficiency while diving deep to gather knowledge.
