@@ -7,7 +7,7 @@
 - [lockpad](https://github.com/justinrubek/lockpad) A authentication system, featuring JWTs and exposing a REST API and external login/registration pages
 - [bomper](https://github.com/justinrubek/bomper) Updates strings hardcoded in files, configurable on a per-repo basis. Intended for updating version strings when tagging releases
 - [calendar-scheduler](https://github.com/justinrubek/calendar-scheduler) Schedule meetings based on available times stored on a CalDav server. This includes a CalDav library, client CLI, and an axum API for scheduling events according to available times
-- [cheesecalc](https://github.com/justinrubek/cheesecalc)  \[[web](https://justinrubek.github.io/cheesecalc)\] Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate. [See its webpage](https://justinrubek.github.io/cheesecalc/)
+- [cheesecalc](https://github.com/justinrubek/cheesecalc)  \[[web](https://justinrubek.github.io/cheesecalc)\] Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate
 - [reform](https://github.com/justinrubek/reform) A form building webapp. Dynamically build forms and inject them into existing HTML. Submissions are placed into a database as JSON allowing the form maker to work without database knowledge
 - [rubek.dev](https://github.com/justinrubek/rubek.dev) My personal website using [Astro](https://astro.build)
 
