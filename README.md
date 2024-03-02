@@ -4,7 +4,7 @@
 
 - [nixos-configs](https://github.com/justinrubek/nixos-configs) Declarative personal infrastructure. Includes a number of machines, the configuration for a HashiCorp stack (Nomad, Consul, Vault), and the tools I need to manage all of it
 - [thoenix](https://github.com/justinrubek/thoenix) Tooling for organizing and working with Terraform configurations (and writing parts of them in nix when convenient)
-- [lockpad](https://github.com/justinrubek/lockpad) A authentication system, featuring JWTs and exposing a REST API and external login/registration pages
+- [lockpad](https://github.com/justinrubek/lockpad) \[[web](https://lockpad.rubek.cloud/)\] A authentication system, featuring JWTs and exposing a REST API and external login/registration pages
 - [bomper](https://github.com/justinrubek/bomper) Updates strings hardcoded in files, configurable on a per-repo basis. Intended for updating version strings when tagging releases
 - [calendar-scheduler](https://github.com/justinrubek/calendar-scheduler) Schedule meetings based on available times stored on a CalDav server. This includes a CalDav library, client CLI, and an axum API for scheduling events according to available times
 - [cheesecalc](https://github.com/justinrubek/cheesecalc)  \[[web](https://justinrubek.github.io/cheesecalc)\] Small utility for quickly calculating ingredient ratios when making mac and cheese with sodium citrate
@@ -16,7 +16,7 @@
 - [ksuid-pydantic](https://github.com/justinrubek/ksuid-pydantic) A Pydantic type for KSUIDs. Intended for (but not limited to) use in FastAPI applications that speak with DynamoDB
 - [2traffic](https://github.com/justinrubek/2traffic) A webapp that can help track event frequency. Used to track phone calls and foot traffic to a helpdesk to help determine what adjustments to make for worker scheduling
 - [scheduler](https://github.com/justinrubek/scheduler) A tool to assist scheduling students to a helpdesk during their open hours only. Looks at Outlook calendars to determine availability.
-- [annapurna](https://github.com/justinrubek/annapurna) WIP - A rust library, CLI, and GUI (web) application that helps manage recipies and ingredients. This uses [ascent](https://github.com/s-arash/ascent) to enable logical programming practices. Currently functionality is limited, but it can be used to see what recipes can be made with in-stock ingredients.
+- [annapurna](https://github.com/justinrubek/annapurna) \[[web](https://annapurna.rubek.cloud/)\] WIP - A rust library, CLI, and GUI (web) application that helps manage recipies and ingredients. This uses [ascent](https://github.com/s-arash/ascent) to enable logical programming practices. Currently functionality is limited, but it can be used to see what recipes can be made with in-stock ingredients.
 - [ayysee](https://github.com/justinrubek/ayysee)  \[[web](https://justinrubek.github.io/ayysee/)\] WIP - A custom programming language targetting [Stationeers](https://store.steampowered.com/app/544550/Stationeers/) IC10 processors.
 - [factorio-server](https://github.com/justinrubek/factorio-server) A containerized [Factorio](https://factorio.com) game server with a small management application that can help perform actions like mod installation
 ---
