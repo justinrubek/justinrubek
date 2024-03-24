@@ -64,7 +64,7 @@ Here's a few things I've used fairly extensively:
 
 # Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-rubek-5096a5240/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinrubek) 
 
 <!--
 # 📊GitHub Stats (public):
